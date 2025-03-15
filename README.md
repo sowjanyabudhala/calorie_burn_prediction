@@ -102,29 +102,28 @@ If you find a bug or want to request a new feature, open an issue:
 
 ## 🛠 Technologies Used
 ### 1️⃣ Scikit-learn
-- **Terminology**: Machine Learning Library  
-- **Description**: Provides tools for data preprocessing, classification, regression, clustering, and model evaluation.  
-- **Usage**: Used for train-test splitting, model training, and evaluation metrics (R² Score).  
-📌 [Scikit-learn Website](https://scikit-learn.org/)  
+- Terminology: Machine Learning Library  
+- Description: Provides tools for data preprocessing, classification, regression, clustering, and model evaluation.  
+- Usage: Used for train-test splitting, model training, and evaluation metrics (R² Score).  
+
 
 ### 2️⃣ Streamlit 
-- **Terminology**: Web App Framework for Machine Learning Models  
-- **Description**: Enables real-time user interaction and model deployment through a web UI.  
-- **Usage**: Used for deploying the calorie burn prediction model.  
+- Terminology: Web App Framework for Machine Learning Models  
+- Description: Enables real-time user interaction and model deployment through a web UI.  
+- Usage: Used for deploying the calorie burn prediction model.  
 
 ### 3️⃣ Pandas
-- **Terminology**: Data Analysis & Manipulation Library  
-- **Description**: Helps in handling structured datasets (CSV, Excel) and performing data preprocessing.  
-- **Usage**: Used for loading, cleaning, and transforming exercise and calorie data.   
+- Terminology: Data Analysis & Manipulation Library  
+- Description: Helps in handling structured datasets (CSV, Excel) and performing data preprocessing.  
+- Usage: Used for loading, cleaning, and transforming exercise and calorie data.   
 
 ### 4️⃣ Matplotlib
-- **Terminology**: Data Visualization Library  
-- **Description**: Used for generating graphs and charts to analyze trends in calorie burn.  
-- **Usage**: Used for histograms, scatter plots, and heatmaps.  
+- Terminology: Data Visualization Library  
+- Description: Used for generating graphs and charts to analyze trends in calorie burn.  
+- Usage: Used for histograms, scatter plots, and heatmaps.  
   
 
 🙌 Credits
 Dataset: Kaggle Exercise & Calorie Burn Dataset
-Contributors: B. Sowjanya
 
 
