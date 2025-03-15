@@ -101,29 +101,27 @@ If you find a bug or want to request a new feature, open an issue:
 📌 GitHub Issues
 
 ## 🛠 Technologies Used
-### **1️⃣ Scikit-learn (`sklearn`)**
+### 1️⃣ Scikit-learn
 - **Terminology**: Machine Learning Library  
 - **Description**: Provides tools for data preprocessing, classification, regression, clustering, and model evaluation.  
 - **Usage**: Used for train-test splitting, model training, and evaluation metrics (R² Score).  
 📌 [Scikit-learn Website](https://scikit-learn.org/)  
 
-### **2️⃣ Streamlit (`streamlit`)**
+### 2️⃣ Streamlit 
 - **Terminology**: Web App Framework for Machine Learning Models  
 - **Description**: Enables real-time user interaction and model deployment through a web UI.  
 - **Usage**: Used for deploying the calorie burn prediction model.  
-📌 [Streamlit Website](https://streamlit.io/)  
 
-### **3️⃣ Pandas (`pandas`)**
+### 3️⃣ Pandas
 - **Terminology**: Data Analysis & Manipulation Library  
 - **Description**: Helps in handling structured datasets (CSV, Excel) and performing data preprocessing.  
-- **Usage**: Used for loading, cleaning, and transforming exercise and calorie data.  
-📌 [Pandas Website](https://pandas.pydata.org/)  
+- **Usage**: Used for loading, cleaning, and transforming exercise and calorie data.   
 
-### **4️⃣ Matplotlib (`matplotlib`)**
+### 4️⃣ Matplotlib
 - **Terminology**: Data Visualization Library  
 - **Description**: Used for generating graphs and charts to analyze trends in calorie burn.  
 - **Usage**: Used for histograms, scatter plots, and heatmaps.  
-📌 [Matplotlib Website](https://matplotlib.org/)  
+  
 
 🙌 Credits
 Dataset: Kaggle Exercise & Calorie Burn Dataset
